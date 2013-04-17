@@ -25,7 +25,7 @@ How To Use It (Standalone)
 Just use our (un)patented Clone-And-dotCloud-Push method::
 
   git clone git://github.com/dotcloud/elasticsearch-on-dotcloud-ALPHA.git
-  dotcloud create h2g2 -f sandbox
+  dotcloud create h2g2 -f live
   dotcloud push h2g2 elasticsearch-on-dotcloud-ALPHA
 
 At the end of the push, the URL to ElasticSearch will be shown.
